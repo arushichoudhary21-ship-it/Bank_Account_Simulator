@@ -1,8 +1,6 @@
 
 # Bank Account Simulator
 
-A simple Python project made for a 1st semester programming course.
-
 ## Project Description
 
 The Bank Account Simulator is a console-based program that allows a user to create a bank account and perform basic banking operations.

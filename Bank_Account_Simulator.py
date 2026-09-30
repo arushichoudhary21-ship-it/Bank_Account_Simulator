@@ -1,7 +1,3 @@
-# Bank Account Simulator
-# 1st Semester Python Project
-# Concepts used: variables, input/output, operators, type conversion,
-# lists/dictionaries, if-else, loops, functions and a simple module.
 
 import random
 

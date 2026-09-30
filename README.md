@@ -47,6 +47,6 @@ This is a basic educational project. It does not use a database, GUI, or real ba
 
 ## Author Information 
    
-   Name: Arushi Choudhary
-   Student ID: 26BCE10504
+   Name: Arushi Choudhary,
+   Student ID: 26BCE10504,
    Course/Project: College Python Project

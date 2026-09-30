@@ -44,3 +44,9 @@ python bank_account_simulator.py
 ## Note
 
 This is a basic educational project. It does not use a database, GUI, or real banking services. Account information exists only while the program is running.
+
+## Author Information 
+   
+   Name: Arushi Choudhary
+   Student ID: 26BCE10504
+   Course/Project: College Python Project
